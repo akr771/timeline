@@ -8,10 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000t\u0000i\u0000m\u0000e\u0000l\u0000i\u0000n\u0000e\u0000\r\u0000 \u0000",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "ejs": "^3.1.10",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "mongoose": "^8.4.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.3"
